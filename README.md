@@ -23,8 +23,6 @@ Trường Đại học Công nghệ Thông tin — Trung tâm Phát triển Côn
 
 Với quy mô lớn và hoạt động phức tạp, Long Châu đối mặt nhiều thách thức: chi phí vận hành cao, một số quy trình còn thủ công và chưa chuẩn hóa. Mục tiêu của đồ án là **liệt kê, phân loại, mô hình hóa và phân tích** các quy trình then chốt, từ đó đề xuất hướng cải tiến và số hóa.
 
-**Giảng viên hướng dẫn:** ThS. Hà Lê Hoài Trung
-
 ---
 
 ## 👥 Thành viên nhóm
