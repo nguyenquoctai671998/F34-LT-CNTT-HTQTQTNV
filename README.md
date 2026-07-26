@@ -104,7 +104,7 @@ F34-LT-CNTT-HTQTQTNV/
 ├── 25410302_Tan/    → Nhóm Hỗ trợ (IT Support, Finance & Accounting)
 └── 25410267_Nhan/   → Nhóm Hỗ trợ (Maintenance, Customer Service / CRM)
 ```
-
+Link GG Drive: https://drive.google.com/drive/folders/1hMoJ1dBXO14eyolgDY2527OK2Di0Xrm0
 ---
 
 ## 🛠️ Công cụ & Phương pháp
