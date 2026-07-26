@@ -99,13 +99,13 @@ F34-LT-CNTT-HTQTQTNV/
 ├── Rubik Đánh giá Bài tập Đồ Án.xlsx  # Tiêu chí đánh giá (rubric)
 │
 ├── 25410295_Tai/    → Nhóm Quản lý (mua hàng, kho vận, GPP, chất lượng, nhân sự)
-├── 25410328_Tuan/   → Nhóm Quản lý (kho vận, GPP, nhân sự) — làm chung với Tài
+├── 25410328_Tuan/   → Nhóm Quản lý (kho vận, GPP, nhân sự)
 ├── 25410272_Ni/     → Nhóm Cốt lõi (Core Front-End, Auto-Replenishment, GSP/GDP)
 ├── 25410302_Tan/    → Nhóm Hỗ trợ (IT Support, Finance & Accounting)
 └── 25410267_Nhan/   → Nhóm Hỗ trợ (Maintenance, Customer Service / CRM)
 ```
-Link GG Drive: https://drive.google.com/drive/folders/1hMoJ1dBXO14eyolgDY2527OK2Di0Xrm0
----
+
+## Link GG Drive: https://drive.google.com/drive/folders/1hMoJ1dBXO14eyolgDY2527OK2Di0Xrm0
 
 ## 🛠️ Công cụ & Phương pháp
 
