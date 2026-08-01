@@ -60,9 +60,9 @@ Hệ thống được phân loại thành **3 nhóm quy trình**:
 
 | STT | Quy trình                                             | Người làm  |
 | :-: | :---------------------------------------------------- | :--------- |
-|  1  | Xử lý đơn thuốc và bán hàng tại quầy (Core Front-End) | Ni + Tuyến |
-|  2  | Dự trù và châm hàng tự động (Auto-Replenishment)      | Ni + Tuyến |
-|  3  | Kiểm soát chất lượng và bảo quản (GSP/GDP)            | Ni + Tuyến |
+|  1  | Xử lý đơn thuốc và bán hàng tại quầy (Core Front-End) | Ni         |
+|  2  | Dự trù và châm hàng tự động (Auto-Replenishment)      | Ni         |
+|  3  | Kiểm soát chất lượng và bảo quản (GSP/GDP)            | Ni         |
 |  4  | Vận hành đơn hàng online và giao hàng nhanh (O2O)     | Tuyến      |
 |  5  | Quản lý ca trực và giao ban hằng ngày tại cửa hàng    | Tuyến      |
 
